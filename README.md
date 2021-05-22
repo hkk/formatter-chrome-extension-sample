@@ -6,7 +6,7 @@
 ```
 </pre>
 
-以下のHTMLにフォーマットされるので、該当する```<code>```タグのスタイルを変更(```style="white-space: pre-wrap;"```)する機能拡張です。
+以下のHTMLにフォーマットされるので、該当する`<code>`タグのスタイルを変更(`style="white-space: pre-wrap;"`)する機能拡張です。
 
 ```
 <pre lang="lawtext">
