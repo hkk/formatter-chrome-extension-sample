@@ -6,7 +6,7 @@
 ```
 </pre>
 
-以下のHTMLにフォーマットされるので、該当する`<code>`タグのスタイルを変更(`style="white-space: pre-wrap;"`)する機能拡張です。
+以下のHTMLにフォーマットされるので、
 
 ```
 <pre lang="lawtext">
@@ -16,8 +16,9 @@
 </pre>
 ```
 
-Chrome機能拡張の「パッケージ化されてない機能拡張を読み込む」から読み込みできます。
+該当する`<code>`タグのスタイルを変更(`style="white-space: pre-wrap;"`)する機能拡張です。
 
+Chrome機能拡張の「パッケージ化されてない機能拡張を読み込む」から読み込みできます。  
 Service Workerとして起動しますが、background.js のURL判定の箇所で、スタイル変更するページURLを限定することが可能です。
 
 ```
