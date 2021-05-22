@@ -16,9 +16,9 @@
 </pre>
 ```
 
-該当する`<code>`タグのスタイルを変更(`style="white-space: pre-wrap;"`)する機能拡張です。
+該当する`<code>`タグのスタイルを変更(`style="white-space: pre-wrap;"`)するChrome Extensionです。
 
-Chrome機能拡張の「パッケージ化されてない機能拡張を読み込む」から読み込みできます。  
+CChrome Extensionの「パッケージ化されてない拡張機能を読み込む」から読み込みできます。  
 Service Workerとして起動しますが、background.js のURL判定の箇所で、スタイル変更するページURLを限定することが可能です。
 
 ```
